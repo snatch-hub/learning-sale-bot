@@ -25,4 +25,5 @@ fields:
   label: permalink
 pages:
 - docs/configuration/configuration.md
+- docs/hello.md
 - docs/navigation-structure.md
